@@ -1,0 +1,11 @@
+IDMétodoPagamento,Nome,TipoPagamento
+1,Dinheiro,Dinheiro
+2,"Cartão de Débito",Dinheiro
+3,"Cartão de Crédito",Dinheiro
+4,"Vale Refeição",Dinheiro
+5,PIX,Dinheiro
+6,Dinheiro,Dinheiro
+7,"Cartão de Débito",Dinheiro
+8,"Cartão de Crédito",Dinheiro
+9,"Vale Refeição",Dinheiro
+10,PIX,Dinheiro

@@ -1,0 +1,41 @@
+IDProduto,NomeProduto,Descricao,Preco,Estoque,IDSabor,IDTamanho,IDPorcao,IDSobremesa,IDBebida
+1,"Pizza Margherita","Molho de tomate, mussarela e manjericão",25.00,20,1,1,NULL,NULL,NULL
+2,"Pizza Pepperoni","Molho de tomate, mussarela e pepperoni",28.00,15,1,1,NULL,NULL,NULL
+3,"Pizza Quatro Queijos","Molho de tomate, mussarela, parmesão, provolone e gorgonzola",30.00,18,1,1,NULL,NULL,NULL
+4,"Pizza Frango com Catupiry","Frango desfiado, catupiry e temperos especiais",32.00,22,1,1,NULL,NULL,NULL
+5,"Pizza Calabresa","Molho de tomate, mussarela e calabresa",27.00,17,1,1,NULL,NULL,NULL
+6,"Pizza Vegetariana","Molho de tomate, mussarela e seleção de vegetais",29.00,19,1,1,NULL,NULL,NULL
+7,"Pizza Margherita com Pesto","Molho de tomate, mussarela, manjericão e pesto de manjericão",30.00,20,1,1,NULL,NULL,NULL
+8,"Pizza Frango com Catupiry Especial","Frango desfiado, catupiry, milho, ervilha e temperos especiais",33.00,23,1,1,NULL,NULL,NULL
+9,"Pizza Calabresa Especial","Molho de tomate, mussarela, calabresa, cebola, pimentão e azeitonas",28.00,18,1,1,NULL,NULL,NULL
+10,"Pizza Quatro Estações","Molho de tomate, mussarela, presunto, champignon, alcachofra e azeitonas",31.00,21,1,1,NULL,NULL,NULL
+11,"Pizza Margherita Picante","Molho de tomate, mussarela, tomate-cereja, pimenta calabresa e manjericão",29.00,19,1,1,NULL,NULL,NULL
+12,"Pizza Mexicana","Molho de tomate, carne moída temperada, milho, pimentão, cebola e pimenta jalapeño",34.00,24,1,1,NULL,NULL,NULL
+13,"Pizza Funghi","Molho de tomate, mussarela, cogumelos Paris, shiitake e azeitonas",30.00,20,1,1,NULL,NULL,NULL
+14,"Pizza Frutos do Mar","Molho de tomate, mussarela, camarões, lula, mariscos e azeitonas",35.00,25,1,1,NULL,NULL,NULL
+15,"Pizza Rústica","Molho de tomate, queijo gorgonzola, pera, nozes e rúcula",32.00,22,1,1,NULL,NULL,NULL
+16,"Pizza Bacon BBQ","Molho de tomate, mussarela, bacon, cebola caramelizada e molho barbecue",33.00,23,1,1,NULL,NULL,NULL
+17,"Pizza Carne Seca com Cream Cheese","Molho de tomate, mussarela, carne seca desfiada, cream cheese e cebola roxa",34.00,24,1,1,NULL,NULL,NULL
+18,"Pizza Margherita com Balsâmico","Molho de tomate, mussarela, tomate-cereja, manjericão e redução de vinagre balsâmico",31.00,21,1,1,NULL,NULL,NULL
+19,"Pizza Vegana de Legumes","Molho de tomate, queijo vegano, abobrinha, berinjela, pimentão e cogumelos",29.00,19,1,1,NULL,NULL,NULL
+20,"Pizza Vegana de Pesto de Castanhas","Molho pesto de castanhas, queijo vegano, tomate-cereja, espinafre e nozes",30.00,20,1,1,NULL,NULL,NULL
+21,"Pizza Vegana de Tomate Seco e Rúcula","Molho de tomate, queijo vegano, tomate seco, rúcula e azeitonas pretas",28.00,18,1,1,NULL,NULL,NULL
+22,"Porção de Batata Frita","Porção de batata frita crocante",15.00,30,NULL,NULL,1,NULL,NULL
+23,"Porção de Anéis de Cebola","Porção de anéis de cebola empanados",12.00,25,NULL,NULL,2,NULL,NULL
+24,"Porção de Coxinha Vegana","Porção de coxinhas veganas recheadas",18.00,20,NULL,NULL,3,NULL,NULL
+25,"Porção de Bruschetta","Porção de bruschettas com tomate, manjericão e azeite de oliva",20.00,25,NULL,NULL,4,NULL,NULL
+26,"Porção de Pastel de Palmito","Porção de pastéis recheados com palmito",16.00,22,NULL,NULL,5,NULL,NULL
+27,Coca-Cola,"Refrigerante de cola",5.00,50,NULL,NULL,NULL,NULL,1
+28,"Suco de Laranja","Suco natural de laranja",8.00,40,NULL,NULL,NULL,NULL,2
+29,"Água Mineral","Água mineral sem gás",3.00,60,NULL,NULL,NULL,NULL,3
+30,"Cerveja Artesanal IPA","Cerveja artesanal Indian Pale Ale",15.00,20,NULL,NULL,NULL,NULL,4
+31,"Vinho Tinto","Vinho tinto seco",25.00,15,NULL,NULL,NULL,NULL,5
+32,"Chá Gelado de Pêssego","Chá gelado sabor pêssego",6.00,30,NULL,NULL,NULL,NULL,6
+33,Mojito,"Cocktail refrescante de hortelã, limão e rum",12.00,25,NULL,NULL,NULL,NULL,7
+34,Energético,"Bebida energética com taurina e cafeína",10.00,20,NULL,NULL,NULL,NULL,8
+35,"Brownie de Chocolate","Brownie de chocolate com nozes",15.00,25,NULL,NULL,NULL,1,NULL
+36,Tiramisu,"Clássica sobremesa italiana com camadas de café e mascarpone",18.00,20,NULL,NULL,NULL,2,NULL
+37,"Cheesecake de Morango","Cheesecake cremoso com cobertura de morangos frescos",20.00,18,NULL,NULL,NULL,3,NULL
+38,"Mousse de Maracujá","Mousse leve e refrescante de maracujá",12.00,30,NULL,NULL,NULL,4,NULL
+39,"Pudim de Leite Condensado","Pudim tradicional de leite condensado",10.00,35,NULL,NULL,NULL,5,NULL
+40,"Sorvete de Baunilha com Calda de Chocolate","Sorvete de baunilha servido com calda quente de chocolate",14.00,15,NULL,NULL,NULL,6,NULL
